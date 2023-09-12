@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FirstMafiaWar.Controllers
 {
-    [Route("api/authentication")]
+    [Route("api/v1/authentication")]
     [ApiController]
     public class AuthenticationController : ControllerBase
     {
